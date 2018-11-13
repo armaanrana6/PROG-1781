@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\A2ArmaanRanaP1\A2ArmaanRanaP1\obj\Debug\A2ArmaanRanaP1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\A2ArmaanRanaP1\A2ArmaanRanaP1\obj\Debug\A2ArmaanRanaP1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\A2ArmaanRanaP1\A2ArmaanRanaP1\bin\Debug\A2ArmaanRanaP1.exe.config
+C:\Users\User\source\repos\A2ArmaanRanaP1\A2ArmaanRanaP1\bin\Debug\A2ArmaanRanaP1.exe
+C:\Users\User\source\repos\A2ArmaanRanaP1\A2ArmaanRanaP1\bin\Debug\A2ArmaanRanaP1.pdb
+C:\Users\User\source\repos\A2ArmaanRanaP1\A2ArmaanRanaP1\obj\Debug\A2ArmaanRanaP1.exe
+C:\Users\User\source\repos\A2ArmaanRanaP1\A2ArmaanRanaP1\obj\Debug\A2ArmaanRanaP1.pdb
+C:\Users\User\Desktop\AssignmentC#(ITD18006)\A2ArmaanRanaP1\A2ArmaanRanaP1\obj\Debug\A2ArmaanRanaP1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AssignmentC#(ITD18006)\A2ArmaanRanaP1\A2ArmaanRanaP1\obj\Debug\A2ArmaanRanaP1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AssignmentC#(ITD18006)\A2ArmaanRanaP1\A2ArmaanRanaP1\obj\Debug\A2ArmaanRanaP1.exe
+C:\Users\User\Desktop\AssignmentC#(ITD18006)\A2ArmaanRanaP1\A2ArmaanRanaP1\obj\Debug\A2ArmaanRanaP1.pdb
+C:\Users\User\Desktop\AssignmentC#(ITD18006)\A2ArmaanRanaP1\A2ArmaanRanaP1\bin\Debug\A2ArmaanRanaP1.exe.config
+C:\Users\User\Desktop\AssignmentC#(ITD18006)\A2ArmaanRanaP1\A2ArmaanRanaP1\bin\Debug\A2ArmaanRanaP1.exe
+C:\Users\User\Desktop\AssignmentC#(ITD18006)\A2ArmaanRanaP1\A2ArmaanRanaP1\bin\Debug\A2ArmaanRanaP1.pdb
